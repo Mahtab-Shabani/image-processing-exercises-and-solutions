@@ -3,7 +3,7 @@
 <details>
   <summary> If you don't speak Persian, click to find out more about this repository.</summary>
   <p>
-It is a Repository for solving the exercises and projects in Image Processing and Computer Vision course. It included 3 folders of exercises, and every folder has a pile of exercises.
+It is a Repository for solving the exercises and projects in Image Processing and Computer Vision course. It contains 3 exercise folders and each folder has loads of exercises.
 </p>
 </details>
 
