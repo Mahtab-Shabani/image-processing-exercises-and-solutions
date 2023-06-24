@@ -3,7 +3,7 @@
 <details>
   <summary> If you don't speak Persian, click to find out more about this repository.</summary>
   <p>
-It is a Repository for solving the exercises and projects in Image Processing and Computer Vision course. It included 3 folders of exercises and every folder has a pile of exercises.
+It is a Repository for solving the exercises and projects in Image Processing and Computer Vision course. It included 3 folders of exercises, and every folder has a pile of exercises.
 </p>
 </details>
 
@@ -17,6 +17,6 @@ It is a Repository for solving the exercises and projects in Image Processing an
   
 </div>
 <br/>
-[گزارش تمرینات درس پردازش تصویر.pdf] (https://github.com/Mahtab-Shabani/image-processing-exercises-and-solutions/files/11854188/default.pdf)
 
-[Uploading گزارش تمرینات درس پردازش تصویر.pdf…]()
+[گزارش تمرینات درس پردازش تصویر.pdf](https://github.com/Mahtab-Shabani/image-processing-exercises-and-solutions/files/11854193/default.pdf)
+
