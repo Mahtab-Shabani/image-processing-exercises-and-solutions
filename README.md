@@ -14,7 +14,7 @@ It is a Repository for solving the exercises and projects in Image Processing an
 <h3 align="center">تمرینات درس پردازش تصویر</h3>
 
   <p align="center">
-  
+حل تمرینات پردازش تصویر که شامل سه پوشه‌ی اصلی است.
 </div>
 <br/>
 
