@@ -16,7 +16,7 @@ It is a Repository for solving the exercises and projects in Image Processing an
   <p align="right">
 حل تمرینات پردازش تصویر که شامل سه بخش اصلی است:
   <br/>
-    ۱. بخش اول تمرینات مربوط به خواندن و نوشتن تصویر، تفکیک رنگ، استفاده از تابع تکه‌تکه خطی (peacwise-linear transformation function) و تابع bitget، استفاده از هیستوگرام دلخواه است
+    ۱. بخش اول تمرینات مربوط به خواندن و نوشتن تصویر، تفکیک رنگ، استفاده از تابع تکه‌تکه خطی (peacwise-linear transformation function) و تابع bitget، استفاده از هیستوگرام دلخواه است.
     <br/>
     ۲. بخش دوم تمرینات، مربوط به استفاده از فیلترهای مختلف و نویز در تصویر و لبه‌یاب‌های گوناگون همچون sobel و canny است.
   <br/>
