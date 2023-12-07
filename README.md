@@ -4,13 +4,13 @@
   <summary> If you don't speak Persian, click to find out more about this repository.</summary>
   <p>
     
-It is a Repository for solving the exercises and projects in Image Processing and Computer Vision course. It contains 3 exercise folders and each folder has loads of exercises. 
-   
-exercise 1: includes imread, imwrite, peacwise-linear transformation function, bitget etc.
+It is a repository for solving the exercises and projects in Image Processing and Computer Vision course. It contains three exercise folders, and each folder has loads of exercises.
 
-exercise 2: filters, noises and edge detection(sobel, canny, ...) 
+Exercise 1 includes imread, imwrite, peacwise-linear transformation function, bitget, etc.
 
-exercise 3: morphology
+Exercise 2: Filters, Noises, and Edge Detection (Sobel, Canny, ...)
+
+Exercise 3: Morphology
 
     
 </p>
